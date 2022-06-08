@@ -24,7 +24,7 @@ cask "wine-staging" do
     wine-stable-legacy
   ]
 
-  app "Wine Stating.app"
+  app "Wine Staging.app"
   binary "#{appdir}/Wine Staging.app/Contents/Resources/start/bin/appdb"
   binary "#{appdir}/Wine Staging.app/Contents/Resources/start/bin/winehelp"
   binary "#{appdir}/Wine Staging.app/Contents/Resources/wine/bin/msiexec"
